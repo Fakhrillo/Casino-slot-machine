@@ -84,6 +84,7 @@ Current Balance: $380
 
 Enter your bet, or 0 to quit (balance = $380): 0
 Thank you for playing, Alex! You left with $380.
+```
 
 
 ## Customization
